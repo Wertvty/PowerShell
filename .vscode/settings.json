@@ -1,5 +1,6 @@
 {
     "npm.includeDirectories": [
     
-    ]
+    ],
+    "editor.defaultFormatter": "vscode.configuration-editing"
 }
